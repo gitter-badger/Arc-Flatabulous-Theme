@@ -1,9 +1,9 @@
-# This is a special fork for Linux Lite
+# This is a special fork for Linux Lite!
 
-# Arc-Flatabulous Theme
+## Arc-Flatabulous Theme
 Arc-Flatabulous theme is the [Arc](https://github.com/horst3180/arc-theme) theme with [Flatabulous](https://github.com/anmoljagetia/Flatabulous) window controls.
 
-###Arc-Flatabulous is available in three variants 
+####Arc-Flatabulous is available in three variants 
 
 #####Arc-Flatabulous
 
